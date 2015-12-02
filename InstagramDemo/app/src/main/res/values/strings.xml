@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstagramDemo</string>
+    <string name="setting">Setting</string>
+    <string name="action_settings">Exit</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <color name="green">#38dc88</color>
+</resources>
